@@ -36,4 +36,4 @@ cat pyproject.toml
 - **SSL or network errors** → retry `uv add` later; proxy users: set `HTTPS_PROXY` env.
 
 ## Next steps
-- [03 — Pin Python version](./03-materialize-env-and-editor.md)
+- [03 — Materialize env & editor integration](./03-materialize-env-and-editor.md)
