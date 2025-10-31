@@ -1,5 +1,4 @@
 # 07. Pre‑commit hooks — automate code quality
-**Video:** (add Loom link)
 
 ## Why this matters
 - Consistent formatting and linting on every commit.
