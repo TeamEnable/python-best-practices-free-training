@@ -3,7 +3,8 @@
 ## Why this matters
 - **Zero setup:** ships with Python (`sqlite3` in the stdlib).
 - **File-based, transactional:** perfect for small apps, CLIs, caching, tests.
-- **Clear upgrade path:** later swap to DuckDB for analytics workloads.
+
+> Note: For analytics use cases, you can later swap to DuckDB. See [DuckDB in 90s](./12-duckdb-90s.md).
 
 ## Commands (copy–paste)
 ```bash
@@ -54,5 +55,3 @@ uv run python sqldemo.py
 
 ## Next steps
 - [11 — Notebooks via uvx (Jupyter)](./11-notebooks-via-uvx-(jupyter).md)
-
-> Note: For analytics, columnar speed, and querying Parquet/CSV directly, see: [DuckDB in 90s](./12-duckdb-90s.md)

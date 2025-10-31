@@ -36,5 +36,5 @@ uv run python duckdemo.py
 - **Package version clashes** → pin versions in `pyproject.toml` and keep `uv.lock` committed. In CI, use `uv sync --frozen`.
 
 ## Next steps
-- Explore `duckdb.sql("SELECT * FROM 'file.parquet'")` to query files directly.
+- [13 — Packaging & console scripts](./13-packaging-and-console-scripts.md)
 

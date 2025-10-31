@@ -31,4 +31,4 @@ ls -la logs && tail -n 5 logs/app.log
 - **Permission denied** → write logs under project folder or `$XDG_STATE_HOME`.
 
 ## Next steps
-- [09 — Config with python‑dotenv](./09-config-dotenv.md)
+- [08b — Structured logging (JSON)](./08b-structured-logging.md)

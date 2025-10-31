@@ -31,4 +31,4 @@ uv run python cfgdemo.py
 - **`.env` committed to git** → add to `.gitignore` or use secret managers in prod.
 
 ## Next steps
-- [10 — DuckDB in 90s](./10-sqlite-90s.md)
+- [10 — SQLite in 90s](./10-sqlite-90s.md)
