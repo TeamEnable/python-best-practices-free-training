@@ -69,3 +69,4 @@ PY
 ## Next steps
 - Add auth (API keys via `.env` from Lesson 09).
 - Add structured logging (Lesson 08b).
+- [16 — Git tricks + gh for speed](./16-git-tricks-and-gh-for-speed.md)
